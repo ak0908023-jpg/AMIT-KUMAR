@@ -1,0 +1,6 @@
+{
+  "name": "Mining Exam Prep CBT Portal",
+  "description": "Comprehensive Mining Engineering exam prep platform featuring realistic GATE, DGMS, and PSU CBT mock tests, track selectors, question palette, statutory CMR 2017 quizzes, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
